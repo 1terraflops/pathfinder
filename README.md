@@ -59,4 +59,4 @@ Specify the file you want to read in order to compute the paths. You can create 
 
 **Output Example:**
 
-<img width="1132" alt="image" src="https://github.com/user-attachments/assets/3ec915fc-241f-4b61-b2f0-0024abea75bc" />
+<img width="1033" alt="image" src="https://github.com/user-attachments/assets/c053b160-ed66-4672-9ad4-dd696e133f9d" />
